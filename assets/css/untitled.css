@@ -42,3 +42,16 @@ a {
   margin-left: 15px;
 }
 
+.btn-check:focus + .btn-primary, .btn-primary:focus {
+  color: #000;
+  background-color: #000000;
+  border-color: #f2c156;
+  box-shadow: 0 0 0 .25rem rgb(242,193,86);
+}
+
+#buton {
+  color: #000;
+  background-color: #f2c156;
+  border-color: #f2c156;
+}
+
