@@ -1,0 +1,44 @@
+#mainNav a {
+  border-width: 57px;
+  -webkit-text-stroke: 0.3px black;
+  -webkit-text-fill-color: #faec06;
+  font-family: 'Gentium Book Basic', serif;
+  text-shadow: 1px 1px 3px rgb(0,0,0);
+}
+
+.btn-default:focus, .btn-default:hover {
+  color: #000;
+  border: 1px solid #faec06;
+  outline: none;
+  background-color: #000000;
+  -webkit-text-stroke: 0.7px black;
+  -webkit-text-fill-color: #faec06;
+  font-family: 'Gentium Book Basic', serif;
+  text-shadow: 1px 1px 3px rgb(0,0,0);
+}
+
+.btn-default {
+  -webkit-text-stroke: 0.7px black;
+  -webkit-text-fill-color: #faec06;
+  font-family: 'Gentium Book Basic', serif;
+  text-shadow: 1px 1px 3px rgb(0,0,0);
+}
+
+.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .25rem #faec06;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+  color: #faec06;
+}
+
+a {
+  transition: all .2s ease-in-out;
+  color: #f2c156;
+}
+
+#mostread {
+  margin-left: 15px;
+}
+
