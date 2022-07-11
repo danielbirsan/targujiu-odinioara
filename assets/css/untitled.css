@@ -1,31 +1,20 @@
-#mainNav a {
-  border-width: 57px;
-  -webkit-text-stroke: 0.3px black;
-  -webkit-text-fill-color: #faec06;
-  font-family: 'Gentium Book Basic', serif;
-  text-shadow: 1px 1px 3px rgb(0,0,0);
+@media (max-width: 760px) {
+  .textjos {
+    width: clamp(50vw, 60vw, 65vw);
+  }
 }
 
 .btn-default:focus, .btn-default:hover {
   color: #000;
   border: 1px solid #faec06;
   outline: none;
-  background-color: #000000;
-  -webkit-text-stroke: 0.7px black;
-  -webkit-text-fill-color: #faec06;
-  font-family: 'Gentium Book Basic', serif;
-  text-shadow: 1px 1px 3px rgb(0,0,0);
+  background-color: #faec06;
 }
 
 .btn-default {
-  -webkit-text-stroke: 0.7px black;
-  -webkit-text-fill-color: #faec06;
-  font-family: 'Gentium Book Basic', serif;
-  text-shadow: 1px 1px 3px rgb(0,0,0);
-}
-
-.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .25rem #faec06;
+  color: #faec06;
+  border: 1px solid #faec06;
+  background-color: transparent;
 }
 
 a:focus, a:hover {
@@ -35,23 +24,178 @@ a:focus, a:hover {
 
 a {
   transition: all .2s ease-in-out;
-  color: #f2c156;
+  color: #f7f3ac;
 }
 
-#mostread {
-  margin-left: 15px;
+#about {
+  visibility: hidden;
+}
+
+@media (max-width: 1500px) and (min-width: 760px) {
+  #mainNav {
+    display: none;
+  }
+}
+
+img {
+}
+
+@media (max-width: 1500px) and (min-width: 760px) {
+  #titlup {
+    display: none;
+  }
+}
+
+#titlu22 {
+  display: none;
+}
+
+#text {
+  display: none;
+}
+
+@media (min-width: 1500px) {
+  #cuprins-1 {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  #titlutg {
+    transform: translateX(5px);
+  }
+}
+
+@media (max-width: 760px) {
+  #btnd {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  #cuprins-1 {
+    display: none;
+  }
+}
+
+.cuprinsul {
+  margin-top: 100px;
+  box-sizing: border-box;
+  display: flex;
+  transform: scale(0.7);
+  flex-direction: column;
+  align-items: start;
+  gap: 25px;
+}
+
+.perd {
+  display: flex;
+  margin-left: -100px;
+}
+
+#events {
+  margin-left: -30px;
+}
+
+.tgjiul {
+  transform: scale(0.5);
+}
+
+#titlucol {
+  display: flex;
+  align-items: flex-start;
+}
+
+#tlrow {
+  width: clamp(40vw, 30vw, 50vw);
+  display: flex;
+}
+
+@media (min-width: 1500px) {
+  #tlrow {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  #tlrow {
+    display: none;
+  }
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+  color: #faec06;
+}
+
+.btn-link:hover {
+  color: #faec06;
+}
+
+.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .25rem rgba(250,236,6,0.5);
+}
+
+.btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
+  color: #000;
+  background-color: #faec06;
+  border-color: #faec06;
+}
+
+.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .25rem rgb(250,236,6);
 }
 
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #000;
-  background-color: #000000;
-  border-color: #f2c156;
-  box-shadow: 0 0 0 .25rem rgb(242,193,86);
+  background-color: #faec06;
+  border-color: #faec06;
+  box-shadow: 0 0 0 .25rem #faec06;
 }
 
-#buton {
+.btn-check:focus + .btn, .btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .25rem rgba(249,236,6, 0.5);
+}
+
+p {
+  font-family: 'Book Antiqua';
+}
+
+.text {
+  color: #494949;
+}
+
+.text:hover {
+  color: #000000;
+}
+
+.text:focus {
+  color: #3a3816;
+}
+
+.fontul {
+  font-family: 'Book Antiqua';
+}
+
+.iconul {
+  width: 30px;
+}
+
+body {
+  font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
   color: #000;
-  background-color: #f2c156;
-  border-color: #f2c156;
+  background: url('../../assets/img/prback.png') repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.stroke {
+  -webkit-text-stroke: 1px #000;
 }
 
