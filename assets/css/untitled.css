@@ -197,6 +197,7 @@ body {
 }
 
 .coloana {
+  max-width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -354,5 +355,26 @@ html {
 
 p {
   font-size: 20px;
+}
+
+#facebook {
+  width: 100vw;
+}
+
+.linkimage {
+  display: flex;
+  justify-content: center;
+}
+
+#mostread-1 {
+  max-width: 100vw;
+}
+
+body {
+  max-width: 100vw;
+}
+
+.marginii {
+  max-width: 85vw;
 }
 
