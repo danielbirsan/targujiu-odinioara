@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>/gorjuldeodinioara/america1914.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/baltisoara1970.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/bisericarosiuta.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/copilaria1950.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/fantanabalanesti.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/fotografieglont.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/gorjean1927.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/gorjul1900.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/hangorjenesc.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/laocinzeaca.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/manastireatismana.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/masinabrancusi.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/nefrescu.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/novaci1900.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/nuntastanesti.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/polovragi1977.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/runcu1904.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/sandatatarescu.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/stanesti1968.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/vaidei1902.html</loc>
+    </url>
+    <url>
+        <loc>/gorjuldeodinioara/zaiafet.html</loc>
+    </url>
+    <url>
         <loc>/perioadaantebelica/10mai.html</loc>
     </url>
     <url>
@@ -106,6 +169,9 @@
         <loc>/perioadainterbelica/bisericasfapostoli.html</loc>
     </url>
     <url>
+        <loc>/perioadainterbelica/caminuldeucenici.html</loc>
+    </url>
+    <url>
         <loc>/perioadainterbelica/casaecaterina.html</loc>
     </url>
     <url>
@@ -124,7 +190,13 @@
         <loc>/perioadainterbelica/elevicntv.html</loc>
     </url>
     <url>
+        <loc>/perioadainterbelica/elisabetapopescu.html</loc>
+    </url>
+    <url>
         <loc>/perioadainterbelica/erounecunoscut.html</loc>
+    </url>
+    <url>
+        <loc>/perioadainterbelica/garatgjiuint.html</loc>
     </url>
     <url>
         <loc>/perioadainterbelica/leonida.html</loc>
@@ -157,10 +229,13 @@
         <loc>/cookies.html</loc>
     </url>
     <url>
+        <loc>/despre.html</loc>
+    </url>
+    <url>
         <loc>/diverse.html</loc>
     </url>
     <url>
-        <loc>/evenimente.html</loc>
+        <loc>/error404.html</loc>
     </url>
     <url>
         <loc>/gorjuldeodinioara.html</loc>
