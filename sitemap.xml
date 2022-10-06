@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>/diverse/elevul.html</loc>
+    </url>
+    <url>
+        <loc>/diverse/maturi.html</loc>
+    </url>
+    <url>
         <loc>/gorjuldeodinioara/america1914.html</loc>
     </url>
     <url>
@@ -62,9 +68,6 @@
     </url>
     <url>
         <loc>/gorjuldeodinioara/zaiafet.html</loc>
-    </url>
-    <url>
-        <loc>/perioadaantebelica/10mai.html</loc>
     </url>
     <url>
         <loc>/perioadaantebelica/10maimuzeul.html</loc>
@@ -164,6 +167,9 @@
     </url>
     <url>
         <loc>/perioadacomunista/vecheagara80.html</loc>
+    </url>
+    <url>
+        <loc>/perioadainterbelica/10mai.html</loc>
     </url>
     <url>
         <loc>/perioadainterbelica/bisericasfapostoli.html</loc>
