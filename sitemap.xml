@@ -67,7 +67,7 @@
         <loc>https://www.targujiuodinioara.ro/gorjuldeodinioara/manastireatismana.html</loc>
     </url>
     <url>
-        <loc>https://www.targujiuodinioara.ro/gorjuldeodinioara/masinabrancusi.html</loc>
+        <loc>https://www.targujiuodinioara.ro/brancusinedit/masinabrancusi.html</loc>
     </url>
     <url>
         <loc>https://www.targujiuodinioara.ro/gorjuldeodinioara/nefrescu.html</loc>
@@ -139,10 +139,10 @@
         <loc>https://www.targujiuodinioara.ro/perioadacomunista/braduldecraciun.html</loc>
     </url>
     <url>
-        <loc>https://www.targujiuodinioara.ro/perioadacomunista/brancusic.html</loc>
+        <loc>https://www.targujiuodinioara.ro/brancusinedit/brancusic.html</loc>
     </url>
     <url>
-        <loc>https://www.targujiuodinioara.ro/perioadacomunista/bulgareala.html</loc>
+        <loc>https://www.targujiuodinioara.ro/brancusinedit/bulgareala.html</loc>
     </url>
     <url>
         <loc>https://www.targujiuodinioara.ro/perioadacomunista/cinematografulvictoria.html</loc>
@@ -208,7 +208,7 @@
         <loc>https://www.targujiuodinioara.ro/perioadainterbelica/10mai.html</loc>
     </url>
     <url>
-        <loc>https://www.targujiuodinioara.ro/perioadainterbelica/bisericasfapostoli.html</loc>
+        <loc>https://www.targujiuodinioara.ro/brancusinedit/bisericasfapostoli.html</loc>
     </url>
     <url>
         <loc>https://www.targujiuodinioara.ro/perioadainterbelica/caminuldeucenici.html</loc>
@@ -256,7 +256,7 @@
         <loc>https://www.targujiuodinioara.ro/perioadainterbelica/pebancainparc.html</loc>
     </url>
     <url>
-        <loc>https://www.targujiuodinioara.ro/perioadainterbelica/promenada1944.html</loc>
+        <loc>https://www.targujiuodinioara.ro/brancusinedit/promenada1944.html</loc>
     </url>
     <url>
         <loc>https://www.targujiuodinioara.ro/perioadainterbelica/regelemihai.html</loc>
@@ -302,5 +302,8 @@
     </url>
     <url>
         <loc>https://www.targujiuodinioara.ro/perioadainterbelica.html</loc>
+    </url>
+      <url>
+        <loc>https://www.targujiuodinioara.ro/error404.html</loc>
     </url>
 </urlset>
